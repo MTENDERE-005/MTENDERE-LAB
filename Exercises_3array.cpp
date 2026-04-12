@@ -11,7 +11,7 @@ int main() {
     for (int i = 0; i < arraySize; i++) {
         if (elements[i][0] == 'B') {
 
-            
+          // If the first character of string is 'B' the outputput will print the element  
             cout << elements[i] << endl;
         }
     }
