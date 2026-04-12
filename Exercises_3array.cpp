@@ -10,6 +10,8 @@ int main() {
     
     for (int i = 0; i < arraySize; i++) {
         if (elements[i][0] == 'B') {
+
+            //now this will display output for elements starting with letter 'B'
             cout << elements[i] << endl;
         }
     }
